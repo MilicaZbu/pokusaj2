@@ -1,3 +1,7 @@
 Nova poruka
 
 Izmena sa grane
+
+Konfliktna izmena sa mastera
+
+moja druga izmena
